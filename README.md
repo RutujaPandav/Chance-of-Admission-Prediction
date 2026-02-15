@@ -3,7 +3,7 @@ Machine Learning project to predict chance of admission using Linear Regression
 
 This project predicts the probability of admission of a student into a graduate program using Machine Learning (Linear Regression).
 
-## 📊 Features Used
+#Features Used
 - GRE Score
 - TOEFL Score
 - University Rating
@@ -12,13 +12,13 @@ This project predicts the probability of admission of a student into a graduate 
 - CGPA
 - Research
 
-## 🤖 Model Used
+#Model Used
 Linear Regression
 
-## 📈 Evaluation Metrics
+#Evaluation Metrics
 - MAE
 - MSE
 - MAPE
 
-## 📌 Conclusion
+#Conclusion
 The model successfully predicts admission probability with low error values and demonstrates good performance.
