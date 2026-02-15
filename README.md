@@ -1,6 +1,5 @@
 # Chance-of-Admission-Prediction
 Machine Learning project to predict chance of admission using Linear Regression
-# Chance of Admission Prediction
 
 This project predicts the probability of admission of a student into a graduate program using Machine Learning (Linear Regression).
 
